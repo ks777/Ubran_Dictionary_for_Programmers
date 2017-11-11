@@ -1,0 +1,69 @@
+HTML: baby`s first webpage language
+CSS: baby`s first coloring book
+machine language: 01101001 01100100 01101001 01101111 01110100
+Ada: that one language that sounds like a chick
+Algorithm: problem-fixers
+ASCII: the american honor and duty to turn everything to binary
+backend: the part of coding where all your hard work goes, yet no one will ever see.
+frontend: the part of coding where you ply dress-up and decorate your entire project.
+Babel: the programming language that explains why the world`s people speak different languages.
+bug: you fucked up
+bugs: you fucked up: deluxe edition
+C: the high-level programming language that you should really know.
+C++:  the highly-used, most popular language that you should really, really know.
+C#: the programming language that makes you wanna send the hashtag: #reallyshouldknowthis.
+class: set of related things that have something in common.
+compiler: the thing that lets your code run.
+compile: running your code.
+computer science: the coolest major in town.
+concurrency: teaching your computer to multitask programs.
+database: a place where you keep a lot of data and its characterisitcs.
+source data: where all the data began.
+dead code: you literally made code that did absolutely nothing.
+debug: calling the exterminator, but that exterminator is you.
+decompiler: turning 1`s and 0`s back into words.
+delimiter: breaking up text
+developer: its you, pinhead.
+django: not to be confused with django unchained, its a framework that lets you connect the snake language to a website.
+python: the language of the snake.
+eclipse: an environment for writing programs, as well as something you need to wear glasses for.
+encapsulation: we'll take this data from one protocol and PUSH IT SOMEWHERE ELSE
+encode: turning somethng stupid into programming code.
+framework: taking someone`s libaries, compilers, and API and using it to add onto yours, but in  friendly way,
+API: legal theft of code, in fact they were begging you to use it,
+FORTRAN: one of the first programming languages, so basically no one ever uses it, 
+full stack developer: what we all aspire to be one day
+garbage collection: GARBAGE DAY
+GCC: also called GNU, its just a bunch of compilers
+github: your portfolio (AKA: why didn`t i start doing projects sooner)
+HAL: i`m sorry dave, i can`t let you itegrate any operating system into hardware
+interpreter: when you don`t want to run code, but you still want another program to read and run the code
+java: THE PROGRAMMING LANGUAGE/TYPE OF COFFEE YOU NEED TO KNOW IF YOU WANT TO LIVE APPARENTLY
+javascript: a programming language that`s mostly used to put code into one`s webpage
+JSON: another way to formate data so it can move from one place to another (or rather the server to the webpage)
+matlab: the programming language that`s only ever good for math and nothing else
+Node.js: a runtime environment that reacts to things that happen when they happen
+objective C: objectively the best programming language in the objective market
+object-oriented: anything that interacts with many objects at once or in order
+pascal: the programming language that sounds artistic, looks artisitc, and is just a masterpiece to work with
+package: a literal package that can be opened in any progran for additional features.
+pastebin: a website that is only for dumping information
+perl: FREE OPEN-SOURCE PROGRAMMING LANGUAGE
+PHP: scripting langauge that works for dynamic web pages or websites that need a lot of data
+polymorphism: instead of turning into a sheep, the programming language will look at objects and react differently based on the class/data type
+programmer: (Who you calling pinhead?)
+psuedocode: code that isn`t seen or used and is just there so you can say how much you hate your boss and leave a cryptic ARG code
+Racket: a programming language that is so strong, it can program the programming language.
+react: programmers react to the react library for user interfaces and websites.
+Ruby: most hated programming language
+sdk: "how to develop software and survive in the woods" kit
+SQL: the most standard database language, or what you use to keep your data safe
+variable: a name or letter that symbolizes a code or a value
+zombie: when a process is doing absolutely nothing but fucking your shit up
+thread; code that can be run apart from the major code
+token: a bit of a much larger chunk of data
+
+
+You`ll need to use HTML and CSS for this example.
+You`ll need to use baby`s first webpage language and baby`s first coloring book for this example.
+YOU`LL NEED TO IMPLEMENT ______

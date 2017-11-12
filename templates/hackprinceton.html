@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang = 'en' xmlns = "http://www.w3.org/1999/xhtml">
+<meta http-equiv ="Content-type" content="text/html;charset=utf-8">
+
+<head>
+	<meta charset = "utf-8"/>
+	<title>So simple even a caveman can do it!</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<style>
+	.bg-1{
+		background-image: url('/static/images/background2.jpeg');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+		min-width: 150 px;
+		max-width: 100%;
+		position: relative;
+	}
+	.title{
+	margin-top: 350px;
+	}
+	
+	.boxed{
+		border: 1px solid yellow;
+		margin-left: -380px;
+		margin-right: -380px;
+		margin-top: 250px;
+		padding-bottom: 150px;
+		text-align: center;
+		background-color: black;
+		padding-top: 250px;
+		color: yellow;
+		font-family: verdana;
+	}
+	
+	.unboxed{
+		border: 1px solid black;
+		margin-left: -380px;
+		margin-right: -380px;
+		padding-bottom: 150px;
+		text-align: center;
+		background-color: yellow;
+		padding-top: 250px;
+		color: black;
+		font-family: verdana;
+	}
+
+</style>
+
+<div class = "title">
+	<img src="/static/images/titlelogo.png" alt="world-of-warcraft-font" border="0">
+	<img src="/static/images/titlelogo2.png" alt="world-of-warcraft-font" border="0">
+</div>
+
+<body class = "container bg-1 text-center" style = "background-color: black; text-align: center;">
+<div class = "boxed">
+	<p><font size = "6">Has this ever happened to you? <br> You`re sitting in the computer labs, presumably to program that "hello world" app you`ve been dying to make, when you hear a group of fellow programmers taking about API`s, React, their 401K`s, and some other nonsense? <br> If you`re just starting off, how are you expected to know such lingo? Well with "Programming for Pinheads", we`ve decided to do the hard work for you! Instead of experiencing the work or reading up on different algorithms and terminologies, we`ve made it our life goal to take such words and simplify it to your needs! So whenever your at the club, and some hot girls pull out their Apple laptops and wonder what the hell is a "backend", you`ll be ready!*</font></p>
+	<br>
+	<br>
+	<br>
+	<p><font size = "1">*I am contractually obligated to state that this should by no means substitute as a learning experience. If anything, its used as a stepping stone/fun little side project to aid those who actually might have just started. Please code responsibly and learn a language!</font></p>
+</div>
+
+<div class = "unboxed">
+
+<form method = "post" action = '/complete'>
+		<div class = "h1">
+			<label for = "title">Enter the phrase/sentence/word you want to simplify: </label>
+			<input name = "title" id = "answer" type = "text"/>	
+		</div>
+		<div>
+		<br>
+			<button type = "submit" class = "buttoning">Hold on, let me get my urban dictionary tab open...</button>
+		</div>
+	</h2>
+</form>
+</div>
+
+
+
+</body>
+</html>

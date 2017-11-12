@@ -3,6 +3,7 @@ from flask import Flask
 app = Flask(__name__)
 
 from routes import *
+#change to routes again for finale
 
 
 if __name__ == '__main__':

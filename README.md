@@ -24,5 +24,6 @@ Assuming a Command Prompt usage and you have installed the proper packages onto 
 
 
 **UPDATE: After a hardware wipe, I`ll be checking at old projects and making sure they work Proper.**
+**Update 2: Program functions!*
 
 

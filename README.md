@@ -1,7 +1,7 @@
 # Programing for Pinheads
 
 ## Summary
-You ever overhear a conversation between two programmers and wonder "I have no idea what they are saying." Well, with this program, we`ve dumbed down the conversation into something much more relatable and understandable. Now you too can enjoy that conversation in the water cooler before promptly getting fired when you boss realized you needed this web appliction to function.
+You ever overhear a conversation between two programmers and wonder "I have no idea what they are saying." Well, with this program, we have dumbed down the conversation into something much more relatable and understandable. Now you too can enjoy that conversation in the water cooler before promptly getting fired when you boss realized you needed this web appliction to function.
 TLDR: Programmer`s Urban Dictionary
 
 ## Purpose
